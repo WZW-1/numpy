@@ -1,5 +1,5 @@
 # 东方仗助 个人介绍  
-![东方仗助]([https://example.com/path/to/josuke_image.jpg](https://www.bing.com/images/search?view=detailV2&ccid=zaedu1uW&id=D1CF6F6DD724F3F17EF17CAA8989502E3FEB3997&thid=OIP.zaedu1uWtTpAv0Nf2765ugAAAA&mediaurl=https%3a%2f%2fhuiji-thumb.huijistatic.com%2fjojo%2fuploads%2fthumb%2fb%2fbc%2f%e4%b8%9c%e6%96%b9%e4%bb%97%e5%8a%a9_DU%e5%8a%a8%e7%94%bb_Infobox.png%2f378px-%e4%b8%9c%e6%96%b9%e4%bb%97%e5%8a%a9_DU%e5%8a%a8%e7%94%bb_Infobox.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cda79dbb5b96b53a40bf435fdbbeb9ba%3frik%3dlznrPy5QiYmqfA%26pid%3dImgRaw%26r%3d0&exph=544&expw=378&q=jojo%e7%9a%84%e5%a5%87%e5%a6%99%e5%86%92%e9%99%a9%e4%b8%8d%e7%81%ad%e9%92%bb%e7%9f%b3&simid=608023956940067106&FORM=IRPRST&ck=1E29CA93DC596C2CC9A71CB7F1A02787&selectedIndex=232&itb=1))  
+![东方仗助]("C:\Users\30791\Pictures\Saved Pictures\JOJO.jpg")  
 ## 基本信息  
 - **全名**: 东方仗助（Hiroseka Josuke）  
 - **性别**: 男  
