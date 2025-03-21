@@ -42,4 +42,4 @@ print(np.array([1, 2, 3]) ** 2)
 ![截图一](file:///C:/Users/30791/Pictures/Screenshots/屏幕截图2025-03-21200632.png)  
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+![截图二](file:///C:/Users/30791/Pictures/Screenshots/屏幕截图2025-03-21201011.png) 
