@@ -1,5 +1,5 @@
 # 东方仗助 个人介绍  
-![东方仗助](![东方仗助]("./JOJO.jpg")  )  
+<img src="[https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg](https://www.bing.com/images/search?view=detailV2&ccid=%2fofmZiss&id=7325CB7FC8703AAF5097CD91DEB2E1A4EE5E71A0&thid=OIP._ofmZissMuipsUutZhWqgQHaKV&mediaurl=https%3a%2f%2fotaku.ourai.ws%2fassets%2fentries%2fanimation%2fjojos-bizarre-adventure-diamond-is-unbreakable%2fcover-2adc772bd412a164c964e1124e11a7b298bdc63ca3fcb99e24c23120d33b2c76.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fe87e6662b2c32e8a9b14bad6615aa81%3frik%3doHFe7qThst6RzQ%26pid%3dImgRaw%26r%3d0&exph=1166&expw=836&q=jojo%e7%9a%84%e5%a5%87%e5%a6%99%e5%86%92%e9%99%a9%e4%b8%8d%e7%81%ad%e9%92%bb%e7%9f%b3&simid=608050409605118981&FORM=IRPRST&ck=0CAACB6C1389405480A5865801A855CD&selectedIndex=2&itb=0)" width="150" alt="东方仗助形象">
 ## 基本信息  
 - **全名**: 东方仗助（Hiroseka Josuke）  
 - **性别**: 男  
