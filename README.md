@@ -1,5 +1,5 @@
 # 东方仗助 个人介绍  
-<img src="D:\git\JOJO.jpg" width="150" alt="东方仗助形象">
+<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/squidward.jpg" width="200" alt="东方仗助形象">
 ## 基本信息  
 - **全名**: 东方仗助（Hiroseka Josuke）  
 - **性别**: 男  
