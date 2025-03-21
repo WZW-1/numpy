@@ -8,7 +8,8 @@
 - **身高**: 174 cm  
 - **体重**: 62 kg  
 - **血型**: A型  
-<img src="https://th.bing.com/th/id/OIP.PIodjPj7_3YllA4LLc-OcAHaEo?w=316&h=197&c=7&r=0&o=5&dpr=2&pid=1.7" width="200" alt="东方仗助形象"> 
+<img src="https://th.bing.com/th/id/OIP.PIodjPj7_3YllA4LLc-OcAHaEo?w=316&h=197&c=7&r=0&o=5&dpr=2&pid=1.7" width="200" alt="东方仗助形象">
+
 ## 背景  
 东方仗助是荒木飞呂彦的漫画《JOJO的奇妙冒险》第四部《不灭钻石》的主角。他是来自日本杜王町的高中生，因其特殊的能力和正义感而受到关注。  
 
