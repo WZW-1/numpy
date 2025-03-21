@@ -7,7 +7,8 @@
 - **生日**: 1978年4月4日  
 - **身高**: 174 cm  
 - **体重**: 62 kg  
-- **血型**: A型  
+- **血型**: A型
+- **口头禅**: great  
 <img src="https://th.bing.com/th/id/OIP.PIodjPj7_3YllA4LLc-OcAHaEo?w=316&h=197&c=7&r=0&o=5&dpr=2&pid=1.7" width="200" alt="东方仗助形象">
 
 ## 背景  
